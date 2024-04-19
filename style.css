@@ -233,6 +233,7 @@ body {
   border-radius: 20pX ;
 }
 #product1 .pro .des{
+  display: grid;
   text-align: start;
   padding: 10px 0;
   grid-area: 7 / 1 / -1 / -1;
