@@ -235,6 +235,10 @@ body {
 #product1 .pro .des{
   text-align: start;
   padding: 10px 0;
+  grid-area: 7 / 1 / -1 / -1;
+  max-width: 100%;
+  grid-row-gap: 2px;
+}
 }
 #product1 .pro .des span{
   color: #606063;
